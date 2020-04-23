@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_4_PowersTable", "Lab_4_PowersTable\Lab_4_PowersTable.csproj", "{ED8F187F-831C-400C-8847-A53658D7EA97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED8F187F-831C-400C-8847-A53658D7EA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8F187F-831C-400C-8847-A53658D7EA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8F187F-831C-400C-8847-A53658D7EA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8F187F-831C-400C-8847-A53658D7EA97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27D4D3E1-A9B4-4573-995A-7AD837EEF8C6}
+	EndGlobalSection
+EndGlobal

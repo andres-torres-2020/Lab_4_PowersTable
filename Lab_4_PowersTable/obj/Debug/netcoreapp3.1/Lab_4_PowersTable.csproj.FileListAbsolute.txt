@@ -1,0 +1,26 @@
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.exe
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.deps.json
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.runtimeconfig.json
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.runtimeconfig.dev.json
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.dll
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.pdb
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.csprojAssemblyReference.cache
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.AssemblyInfo.cs
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.dll
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.pdb
+C:\Users\andy\source\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\bin\Debug\netcoreapp3.1\Lab_4_PowersTable.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_4_PowersTable\Lab_4_PowersTable\obj\Debug\netcoreapp3.1\Lab_4_PowersTable.genruntimeconfig.cache
